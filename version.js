@@ -1,3 +1,3 @@
 {
-  "firmware": { "date": 20261016 }
+  "firmware": { "date": 20261018 }
 }
