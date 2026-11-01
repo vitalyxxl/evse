@@ -1,6 +1,6 @@
 {
   "name": "EVSE Controller",
-  "version": "20261029",
+  "version": "20261101",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
